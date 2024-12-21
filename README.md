@@ -72,9 +72,23 @@ Automatically act on your data and communicate using third-party services like T
 
 # PROGRAM:
 
-# CIRCUIT DIAGRAM:
+![Screenshot 2024-12-21 095344](https://github.com/user-attachments/assets/afe91f88-645f-44a7-ae5a-6961d72f2a28)
 
-# OUTPUT:
+
+
+
+
+
+# CIRCUIT DIAGRAM: 
+
+![Screenshot 2024-12-21 095323](https://github.com/user-attachments/assets/2265e650-5051-4bb4-9034-8fe537e72dd0)
+
+
+
+# OUTPUT: 
+
+![Screenshot 2024-12-21 094020](https://github.com/user-attachments/assets/94884b03-3c65-4441-a124-21b69215fadd)
+
 
 # RESULT:
 
